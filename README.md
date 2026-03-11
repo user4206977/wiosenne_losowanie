@@ -24,8 +24,8 @@ Projekt działa wyłącznie po stronie przeglądarki.
 
 ---
 
-## Autor
+## Credits
 
-Maciej Strzelec, Filip Ryguła
-Wersja 1.0.0
+Maciej Strzelec, Filip Ryguła  
+Wersja 1.0.0  
 Data: 03.2026
