@@ -76,13 +76,8 @@ Cała logika aplikacji działa po stronie przeglądarki użytkownika i **nie wym
 projekt-wiosna/
 │
 ├── index.html
-│
-├── css/
-│   └── style.css
-│
-├── js/
-│   └── app.js
-│
+├── style.css
+├── app.js
 └── wiosna.jpg
 ```
 
@@ -93,10 +88,10 @@ projekt-wiosna/
 ### index.html
 Zawiera strukturę strony oraz elementy interfejsu użytkownika.
 
-### css/style.css
+### style.css
 Odpowiada za wygląd strony, układ elementów oraz responsywność.
 
-### js/app.js
+### app.js
 Zawiera logikę aplikacji, funkcję losowania liczb oraz obsługę interakcji użytkownika.
 
 ### wiosna.jpg
@@ -151,6 +146,6 @@ JavaScript odpowiada za:
 git clone https://github.com/twoje-repozytorium/projekt-wiosna.git
 ```
 
-2. Otwórz plik `index.html` w przeglądarce internetowej.
+2. Otwórz projekt np. w `LiveServer` w przeglądarce internetowej.
 
 ---
