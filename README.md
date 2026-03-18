@@ -1,7 +1,7 @@
 # 🌸 WIOSNA – Generator liczb
 
 **Autorzy:** Maciej Strzelec, Filip Ryguła  
-**Wersja:** 1.0.1  
+**Wersja:** 1.0.2  
 
 Prosta aplikacja webowa umożliwiająca losowanie **unikalnych liczb z zakresu 1–49**.  
 Użytkownik może wygenerować zestaw **6 liczb** za pomocą przycisku oraz wyczyścić losowanie i rozpocząć od nowa.
